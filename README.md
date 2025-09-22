@@ -42,12 +42,10 @@ Here are some sample runs of the calculator in action:
 
 | Operation                | Screenshot |
 |---------------------------|------------|
-| ➕ Addition               | ![Addition Screenshot](screenshots/addition.png) |
-| ➖ Subtraction            | ![Subtraction Screenshot](screenshots/subtraction.png) |
-| ✖️ Multiplication        | ![Multiplication Screenshot](screenshots/multiplication.png) |
-| ➗ Division               | ![Division Screenshot](screenshots/division.png) |
-| 🚫 Divide-by-Zero Error   | ![Divide by Zero Screenshot](screenshots/divide-by-zero.png) |
-| ↩️ Exit Option            | ![Exit Screenshot](screenshots/exit.png) |
+| ➕ Addition               |<img width="346" height="315" alt="divide-by-zero" src="https://github.com/user-attachments/assets/4c2e7097-389c-48a2-a5f3-0c69af51c99a" /> |
+| ➖ Subtraction            |<img width="346" height="315" alt="divide-by-zero" src="https://github.com/user-attachments/assets/127948de-608f-44e1-9a8d-6e09afdb17dd" />|
+| 🚫 Divide-by-Zero Error   |<img width="346" height="315" alt="divide-by-zero" src="https://github.com/user-attachments/assets/8cd28a36-c166-478c-b41f-c136c8ad47f9" /> |
+| ↩️ Exit Option            | <img width="446" height="223" alt="exit" src="https://github.com/user-attachments/assets/ec0754c0-127f-4cbe-b276-202b2b1193cc" /> |
 
 ---
 ## Author
